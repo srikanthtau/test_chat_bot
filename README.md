@@ -3,6 +3,7 @@
 Flask
 ChatterBot
 
+cd chat_bot_speech
 pip install -r requirements.txt
 
 Trained using the coversations.yml file under data/
@@ -17,6 +18,7 @@ http://127.0.0.1:5000/ -->: actual chat bot
 
 
 
+Other repos --> things to explore
 
 
 
